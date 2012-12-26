@@ -1,0 +1,10 @@
+Package: com.faultyclones.diamondswag
+Name: DiamondSwag
+Depends: mobilesubstrate
+Version: 0.0.1-4
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: ttwj
+Author: ttwj
+Section: Tweaks
+Installed-Size: 32
